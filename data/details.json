@@ -60,6 +60,7 @@
             "bio": "Hirohisa Hayashi is a highly acclaimed chef with a passion for traditional Japanese cuisine. He has spent over 15 years honing his craft and is known for his expertise in preparing fresh sushi and sashimi. He runs a popular restaurant in Tokyo and has won numerous awards for his culinary creations.",
             "recipes": [
                 {
+
                     "name": "Salmon Nigiri",
                     "ingredients": [
                         "salmon",
@@ -262,7 +263,7 @@
                         "shrimp",
                         "flour",
                         "cornstarch",
-                        "baking powder",
+                        "baking powdr",
                         "ice water"
                     ],
                     "method": "1. Cook sushi rice. 2. Cut tuna and avocado into thin slices. 3. Lay out nori seaweed on sushi mat. 4. Spread sushi rice over nori. 5. Add tuna, avocado, and cucumber. 6. Roll up tightly using sushi mat. 7. Cut into pieces.",
