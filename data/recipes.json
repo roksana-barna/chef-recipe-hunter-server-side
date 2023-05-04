@@ -1,0 +1,123 @@
+[
+    {
+        "id": "1",
+        "name": "Sushi Rolls",
+        "ingredients": [
+            "sushi rice",
+            "nori seaweed",
+            "tuna",
+            "avocado",
+            "cucumber"
+        ],
+        "method": "1. Cook sushi rice. 2. Cut tuna and avocado into thin slices. 3. Lay out nori seaweed on sushi mat. 4. Spread sushi rice over nori. 5. Add tuna, avocado, and cucumber. 6. Roll up tightly using sushi mat. 7. Cut into pieces.",
+        "rating": 4.5,
+        "favorite": false
+    },
+    {
+        "name": "Tempura",
+        "ingredients": [
+            "shrimp",
+            "vegetables",
+            "flour",
+            "cornstarch",
+            "cold water"
+        ],
+        "method": "1. Mix flour, cornstarch, and cold water to make batter. 2. Dip shrimp and vegetables in batter. 3. Deep-fry in oil until crispy. 4. Serve hot.",
+        "rating": 4.2,
+        "favorite": true
+    },
+    {
+        "name": "Miso Soup",
+        "ingredients": [
+            "miso paste",
+            "dashi stock",
+            "tofu",
+            "wakame seaweed",
+            "green onion"
+        ],
+        "method": "1. Bring dashi stock to a simmer. 2. Add miso paste and stir to dissolve. 3. Add cubed tofu and wakame seaweed. 4. Simmer for a few minutes. 5. Serve hot, garnished with sliced green onion.",
+        "rating": 4.7,
+        "favorite": false
+    },
+
+        {
+            "id": "2",
+            "name": "Salmon Nigiri",
+            "ingredients": [
+                "salmon",
+                "sushi rice",
+                "rice vinegar",
+                "sugar",
+                "salt"
+            ],
+            "method": "1. Rinse the sushi rice until the water runs clear. 2. Combine the rice vinegar, sugar, and salt in a small saucepan and heat until the sugar dissolves. 3. Cook the sushi rice according to the package instructions. 4. Add the vinegar mixture to the cooked rice and stir to combine. 5. Cut the salmon into thin slices. 6. Shape the rice into small rectangles and top each one with a slice of salmon.",
+            "rating": 4.5,
+            "favorite": false
+        },
+        {
+            "name": "Miso Soup",
+            "ingredients": [
+                "dashi",
+                "miso paste",
+                "tofu",
+                "scallions",
+                "wakame seaweed"
+            ],
+            "method": "1. Bring the dashi to a boil in a pot. 2. Add the wakame seaweed and cook for a few minutes. 3. Reduce the heat to low and add the miso paste, stirring to dissolve. 4. Add the tofu and scallions and simmer for a few minutes. 5. Serve hot.",
+            "rating": 4.2,
+            "favorite": true
+        },
+        {
+            "name": "Beef Teriyaki",
+            "ingredients": [
+                "beef sirloin",
+                "soy sauce",
+                "mirin",
+                "sake",
+                "sugar"
+            ],
+            "method": "1. Combine the soy sauce, mirin, sake, and sugar in a bowl. 2. Cut the beef into thin slices. 3. Heat a skillet over high heat and add the beef. 4. Cook until browned on both sides. 5. Pour the sauce over the beef and cook until the sauce thickens. 6. Serve hot.",
+            "rating": 4.8,
+            "favorite": false
+        },
+        
+            {    "id":"3",
+                "name": "Sushi Rolls",
+                "ingredients": [
+                    "Sushi rice",
+                    "Nori",
+                    "Soy sauce",
+                    "Wasabi",
+                    "Assorted fillings (e.g. tuna, salmon, avocado, cucumber)"
+                ],
+                "method": "1. Cook the sushi rice and let it cool. 2. Place a sheet of nori on a bamboo mat. 3. Spread a thin layer of sushi rice on top of the nori. 4. Arrange your fillings in a row in the center of the rice. 5. Roll the bamboo mat tightly around the fillings, using the mat to shape the roll. 6. Slice the roll into bite-sized pieces.",
+                "rating": 4.5
+            },
+            {
+                "name": "Tonkatsu",
+                "ingredients": [
+                    "Pork loin",
+                    "Flour",
+                    "Egg",
+                    "Panko breadcrumbs",
+                    "Oil"
+                ],
+                "method": "1. Bread the pork loin by coating it in flour, then beaten egg, then panko breadcrumbs. 2. Heat the oil in a deep frying pan or pot. 3. Fry the pork loin until golden brown and crispy. 4. Serve with tonkatsu sauce and a side of rice and shredded cabbage.",
+                "rating": 4.2
+            },
+            {
+                "name": "Miso Soup",
+                "ingredients": [
+                    "Dashi stock",
+                    "Miso paste",
+                    "Tofu",
+                    "Green onions",
+                    "Wakame seaweed"
+                ],
+                "method": "1. Bring the dashi stock to a simmer in a pot. 2. Add the miso paste and stir until it dissolves. 3. Add the tofu, sliced green onions, and wakame seaweed. 4. Simmer for a few minutes until everything is heated through. 5. Serve hot.",
+                "rating": 4.8
+            }
+        
+   
+    
+]

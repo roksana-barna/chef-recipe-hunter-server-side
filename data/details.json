@@ -1,7 +1,7 @@
-{
-    "chefs": [
+
+     [
         {
-            "id": 1,
+            "id": "1",
             "picture": "https://pngimg.com/uploads/chef/chef_PNG140.png",
             "name": "Yoshihiro Murata",
             "experience": "7 years",
@@ -51,14 +51,14 @@
             ]
         },
         {
-            "id": 2,
+            "id": "2",
             "picture": "https://spng.pngfind.com/pngs/s/48-488978_free-png-download-chef-png-images-background-png.png",
             "name": "Hirohisa Hayashi",
             "experience": "6 years",
             "numRecipes": 200,
             "likes": 300,
             "bio": "Hirohisa Hayashi is a highly acclaimed chef with a passion for traditional Japanese cuisine. He has spent over 15 years honing his craft and is known for his expertise in preparing fresh sushi and sashimi. He runs a popular restaurant in Tokyo and has won numerous awards for his culinary creations.",
-            "recipes_info": [
+            "recipes": [
                 {
                     "name": "Salmon Nigiri",
                     "ingredients": [
@@ -101,14 +101,14 @@
             ]
         },
         {
-            "id": 3,
+            "id": "3",
             "picture": "https://w7.pngwing.com/pngs/728/838/png-transparent-chef-chef-s-uniform-celebrity-chef-cook-chef-kitchen-food-hat-thumbnail.png",
             "name": "Nobu Matsuhisa",
             "experience": "9 years",
             "numRecipes": 230,
             "likes": 500,
             "bio": "Nobu Matsuhisa is a Japanese chef, best known as an Iron Chef on the Japanese TV cooking show Iron Chef and its spinoff Iron Chef America. He is also known for his unique fusion of Japanese and Western cuisine.",
-            "recipesList": [
+            "recipes": [
                 {
                     "name": "Sushi Rolls",
                     "ingredients": [
@@ -148,7 +148,7 @@
             ]
         },
         {
-            "id": 4,
+            "id": "4",
             "picture": "https://img.freepik.com/free-photo/young-baker-holding-some-bread-with-thumb-up_1368-9870.jpg",
             "name": "Yukio Hattori",
             "experience": "8 years",
@@ -198,7 +198,7 @@
             ]
         },
         {
-            "id": 5,
+            "id": "5",
             "picture": "https://e7.pngegg.com/pngimages/492/898/png-clipart-chef-chef-thumbnail.png",
             "name": "Masaharu Morimoto",
             "experience": "7 years",
@@ -248,7 +248,7 @@
             ]
         },
         {
-            "id": 6,
+            "id": "6",
             "picture": "https://w7.pngwing.com/pngs/32/427/png-transparent-personal-chef-cook-chef-s-uniform-kitchen-house-chef-restaurant.png",
             "name": "Takashi S",
             "experience": "4 years",
@@ -298,4 +298,3 @@
             ]
         }
     ]
-}
